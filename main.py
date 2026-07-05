@@ -198,6 +198,13 @@ def log_result(job, action, extra=""):
         })
 
 
+def total_applications_count():
+    if not os.path.exists(LOG_FILE):
+        return 0
+    with open(LOG_FILE, encoding="utf-8") as f:
+        return sum(1 for _ in f) - 1
+
+
 # --------------------------------------------------------------------------- #
 # Drafting
 # --------------------------------------------------------------------------- #
@@ -301,18 +308,22 @@ def save_text_draft(job, subject, body):
 # Main
 # --------------------------------------------------------------------------- #
 
-def write_dashboard_json(total_fetched, total_matched, ran_ok=True, error_msg=""):
-    """Writes a small public-safe summary file the portfolio dashboard reads.
-    Contains only job titles/companies/urls/actions — never credentials or full email bodies."""
-    recent = []
-    if os.path.exists(LOG_FILE):
-        with open(LOG_FILE, newline="", encoding="utf-8") as f:
-            rows = list(csv.DictReader(f))
-        for row in rows[-20:][::-1]:
-            recent.append({
-                "date": row["date"], "source": row["source"], "title": row["title"],
-                "company": row["company"], "url": row["url"], "action": row["action"],
-            })
+def write_dashboard_json(total_fetched, total_matched, todays_entries, ran_ok=True, error_msg=""):
+    """Writes the public-safe summary file the portfolio dashboard reads.
+    Merges today's new entries (which include full draft text so it survives
+    even though the GitHub Actions runner itself is thrown away after each run)
+    with whatever was already in dashboard_data.json from previous days."""
+    import json
+
+    previous_recent = []
+    if os.path.exists("dashboard_data.json"):
+        try:
+            with open("dashboard_data.json", encoding="utf-8") as f:
+                previous_recent = json.load(f).get("recent_matches", [])
+        except Exception:
+            previous_recent = []
+
+    combined = (todays_entries + previous_recent)[:20]
 
     summary = {
         "last_run": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -320,11 +331,10 @@ def write_dashboard_json(total_fetched, total_matched, ran_ok=True, error_msg=""
         "error": error_msg,
         "total_fetched_today": total_fetched,
         "total_new_matches_today": total_matched,
-        "total_applications_all_time": sum(1 for _ in open(LOG_FILE, encoding="utf-8")) - 1 if os.path.exists(LOG_FILE) else 0,
-        "recent_matches": recent,
+        "total_applications_all_time": total_applications_count(),
+        "recent_matches": combined,
     }
     with open("dashboard_data.json", "w", encoding="utf-8") as f:
-        import json
         json.dump(summary, f, indent=2)
 
 
@@ -339,30 +349,48 @@ def main():
 
     if not matched:
         print("No new matches today. Run again tomorrow!")
-        write_dashboard_json(len(all_jobs), 0)
+        write_dashboard_json(len(all_jobs), 0, [])
         return
+
+    todays_entries = []
 
     for job in matched:
         print(f"- {job['title']} @ {job['company']} ({job['source']})")
         subject, body = compose_application(job)
         contact_email = find_contact_email(job["description"])
+        entry = {
+            "date": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+            "source": job["source"],
+            "title": job["title"],
+            "company": job["company"],
+            "url": job["url"],
+            "subject": subject,
+        }
 
         if contact_email:
             ok = save_gmail_draft(contact_email, subject, body)
             if ok:
                 print(f"  -> Draft saved in Gmail, addressed to {contact_email}")
                 log_result(job, "gmail_draft", contact_email)
+                entry["action"] = "gmail_draft"
+                entry["contact_email"] = contact_email
             else:
-                fname = save_text_draft(job, subject, body)
-                log_result(job, "text_draft_fallback", fname)
+                save_text_draft(job, subject, body)  # local-only convenience copy
+                log_result(job, "text_draft_fallback", contact_email)
+                entry["action"] = "text_draft"
+                entry["draft_body"] = body
         else:
-            fname = save_text_draft(job, subject, body)
-            print(f"  -> No direct email found; wrote draft + apply link to {fname}")
-            log_result(job, "text_draft", fname)
+            save_text_draft(job, subject, body)  # local-only convenience copy
+            print(f"  -> No direct email found; drafted pitch text (see dashboard)")
+            log_result(job, "text_draft", "")
+            entry["action"] = "text_draft"
+            entry["draft_body"] = body
 
-    print(f"\nDone. Check your Gmail Drafts folder and the '{DRAFTS_DIR}/' folder.")
+        todays_entries.append(entry)
+
+    print(f"\nDone. Check your Gmail Drafts folder and the dashboard for text drafts.")
     print(f"Full history logged in {LOG_FILE}.")
-    write_dashboard_json(len(all_jobs), len(matched))
+    write_dashboard_json(len(all_jobs), len(matched), todays_entries)
 
 
 if __name__ == "__main__":
