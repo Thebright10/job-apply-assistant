@@ -1,2 +1,4 @@
 date,source,job_id,title,company,url,action,notes
 2026-07-05T20:50:10+00:00,RemoteOK,remoteok-1134429,Junior Data Analyst,Numa,https://remoteOK.com/remote-jobs/remote-junior-data-analyst-numa-1134429,text_draft,drafts/Numa_Junior_Data_Analyst.txt
+2026-07-07T11:14:00+00:00,Arbeitnow,arbeitnow-backend-developer-python-berlin-104687,Backend Developer (Python),Persohap GmbH,https://www.arbeitnow.com/jobs/companies/persohap-gmbh/backend-developer-python-berlin-104687,text_draft,
+2026-07-07T11:14:00+00:00,Arbeitnow,arbeitnow-frontend-developer-react-berlin-405524,Frontend Developer (React),Persohap GmbH,https://www.arbeitnow.com/jobs/companies/persohap-gmbh/frontend-developer-react-berlin-405524,text_draft,
