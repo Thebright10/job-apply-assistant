@@ -1,11 +1,21 @@
 {
-  "last_run": "2026-07-22T10:30:02+00:00",
+  "last_run": "2026-07-23T10:28:19+00:00",
   "ran_ok": true,
   "error": "",
   "total_fetched_today": 199,
   "total_new_matches_today": 1,
-  "total_applications_all_time": 15,
+  "total_applications_all_time": 16,
   "recent_matches": [
+    {
+      "date": "2026-07-23T10:28:19+00:00",
+      "source": "Arbeitnow",
+      "title": "Data Engineer - Automotive (M/W/D) - SYSTEMS",
+      "company": "VISPIRON GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/vispiron-gmbh/data-engineer-automotive-systems-munich-220852",
+      "subject": "Application for Data Engineer - Automotive (M/W/D) - SYSTEMS \u2014 Sudip Kumar Adak",
+      "action": "text_draft",
+      "draft_body": "Dear Hiring Team at VISPIRON GmbH,\n\nI'm writing to apply for the Data Engineer - Automotive (M/W/D) - SYSTEMS position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to VISPIRON GmbH. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
+    },
     {
       "date": "2026-07-22T10:30:02+00:00",
       "source": "Arbeitnow",
