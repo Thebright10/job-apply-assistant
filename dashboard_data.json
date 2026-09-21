@@ -1,11 +1,21 @@
 {
-  "last_run": "2026-09-20T12:57:55+00:00",
+  "last_run": "2026-09-21T14:58:55+00:00",
   "ran_ok": true,
   "error": "",
   "total_fetched_today": 349,
-  "total_new_matches_today": 0,
-  "total_applications_all_time": 96,
+  "total_new_matches_today": 1,
+  "total_applications_all_time": 97,
   "recent_matches": [
+    {
+      "date": "2026-09-21T14:58:55+00:00",
+      "source": "Arbeitnow",
+      "title": "Software Engineer",
+      "company": "Deliveroo",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-london-116718",
+      "subject": "Application for Software Engineer \u2014 Sudip Kumar Adak",
+      "action": "text_draft",
+      "draft_body": "Dear Hiring Team at Deliveroo,\n\nI'm writing to apply for the Software Engineer position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to Deliveroo. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
+    },
     {
       "date": "2026-09-19T12:23:14+00:00",
       "source": "Arbeitnow",
@@ -195,16 +205,6 @@
       "subject": "Application for Backend Developer - Golang (f/m/d) \u2014 Sudip Kumar Adak",
       "action": "text_draft",
       "draft_body": "Dear Hiring Team at Justdice,\n\nI'm writing to apply for the Backend Developer - Golang (f/m/d) position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to Justdice. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
-    },
-    {
-      "date": "2026-09-07T14:07:41+00:00",
-      "source": "Arbeitnow",
-      "title": "Consultant Data Analyst Marketing - F/H",
-      "company": "Vmlenterprisesolutions",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultant-data-analyst-marketing-f-h-paris-449933",
-      "subject": "Application for Consultant Data Analyst Marketing - F/H \u2014 Sudip Kumar Adak",
-      "action": "text_draft",
-      "draft_body": "Dear Hiring Team at Vmlenterprisesolutions,\n\nI'm writing to apply for the Consultant Data Analyst Marketing - F/H position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to Vmlenterprisesolutions. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
     }
   ]
 }
