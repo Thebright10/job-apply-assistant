@@ -1,11 +1,31 @@
 {
-  "last_run": "2026-11-08T14:54:27+00:00",
+  "last_run": "2026-11-09T18:34:27+00:00",
   "ran_ok": true,
   "error": "",
   "total_fetched_today": 399,
   "total_new_matches_today": 2,
-  "total_applications_all_time": 177,
+  "total_applications_all_time": 179,
   "recent_matches": [
+    {
+      "date": "2026-11-09T18:34:27+00:00",
+      "source": "Arbeitnow",
+      "title": "Junior Backend Developer (Python) (M/W/D) 20H Stellenbeschreibung Read Description Before",
+      "company": "uNaice GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/unaice-gmbh/junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-188721",
+      "subject": "Application for Junior Backend Developer (Python) (M/W/D) 20H Stellenbeschreibung Read Description Before \u2014 Sudip Kumar Adak",
+      "action": "text_draft",
+      "draft_body": "Dear Hiring Team at uNaice GmbH,\n\nI'm writing to apply for the Junior Backend Developer (Python) (M/W/D) 20H Stellenbeschreibung Read Description Before position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to uNaice GmbH. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
+    },
+    {
+      "date": "2026-11-09T18:34:27+00:00",
+      "source": "Arbeitnow",
+      "title": "Product Frontend Engineer",
+      "company": "ServiceHunter AG - quitt, quinn",
+      "url": "https://www.arbeitnow.ch/jobs/companies/servicehunter-ag-quitt-quinn/product-frontend-engineer-zurich-97407",
+      "subject": "Application for Product Frontend Engineer \u2014 Sudip Kumar Adak",
+      "action": "text_draft",
+      "draft_body": "Dear Hiring Team at ServiceHunter AG - quitt, quinn,\n\nI'm writing to apply for the Product Frontend Engineer position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to ServiceHunter AG - quitt, quinn. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
+    },
     {
       "date": "2026-11-08T14:54:27+00:00",
       "source": "Arbeitnow",
@@ -185,26 +205,6 @@
       "subject": "Application for Silicon Infrastructure Engineer \u2014 Sudip Kumar Adak",
       "action": "text_draft",
       "draft_body": "Dear Hiring Team at Fractile,\n\nI'm writing to apply for the Silicon Infrastructure Engineer position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to Fractile. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
-    },
-    {
-      "date": "2026-10-28T14:58:24+00:00",
-      "source": "Arbeitnow",
-      "title": "AI Workflows Engineer - Switzerland",
-      "company": "Neuralconcept",
-      "url": "https://www.arbeitnow.ch/jobs/companies/neuralconcept/ai-workflows-engineer-switzerland-lausanne-161326",
-      "subject": "Application for AI Workflows Engineer - Switzerland \u2014 Sudip Kumar Adak",
-      "action": "text_draft",
-      "draft_body": "Dear Hiring Team at Neuralconcept,\n\nI'm writing to apply for the AI Workflows Engineer - Switzerland position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to Neuralconcept. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
-    },
-    {
-      "date": "2026-10-28T14:58:24+00:00",
-      "source": "Arbeitnow",
-      "title": "Customer Onboarding Manager I (Dutch Speaking)",
-      "company": "Pleo",
-      "url": "https://www.arbeitnow.nl/jobs/companies/pleo/customer-onboarding-manager-i-dutch-speaking-amsterdam-492052",
-      "subject": "Application for Customer Onboarding Manager I (Dutch Speaking) \u2014 Sudip Kumar Adak",
-      "action": "text_draft",
-      "draft_body": "Dear Hiring Team at Pleo,\n\nI'm writing to apply for the Customer Onboarding Manager I (Dutch Speaking) position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to Pleo. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
     }
   ]
 }
