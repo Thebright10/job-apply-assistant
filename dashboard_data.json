@@ -1,11 +1,71 @@
 {
-  "last_run": "2026-11-25T18:32:56+00:00",
+  "last_run": "2026-11-26T18:16:01+00:00",
   "ran_ok": true,
   "error": "",
   "total_fetched_today": 400,
-  "total_new_matches_today": 2,
-  "total_applications_all_time": 216,
+  "total_new_matches_today": 6,
+  "total_applications_all_time": 222,
   "recent_matches": [
+    {
+      "date": "2026-11-26T18:16:01+00:00",
+      "source": "Arbeitnow",
+      "title": "Frontend Engineer, Developer (M/W/D)",
+      "company": "INSIDE M2M GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/inside-m2m-gmbh/frontend-engineer-developer-garbsen-452452",
+      "subject": "Application for Frontend Engineer, Developer (M/W/D) \u2014 Sudip Kumar Adak",
+      "action": "text_draft",
+      "draft_body": "Dear Hiring Team at INSIDE M2M GmbH,\n\nI'm writing to apply for the Frontend Engineer, Developer (M/W/D) position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to INSIDE M2M GmbH. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
+    },
+    {
+      "date": "2026-11-26T18:16:01+00:00",
+      "source": "Arbeitnow",
+      "title": "Medical Data Analyst (m/w/d)",
+      "company": "DocCheck AG",
+      "url": "https://www.arbeitnow.com/jobs/companies/doccheck-ag/medical-data-analyst-koln-247112",
+      "subject": "Application for Medical Data Analyst (m/w/d) \u2014 Sudip Kumar Adak",
+      "action": "text_draft",
+      "draft_body": "Dear Hiring Team at DocCheck AG,\n\nI'm writing to apply for the Medical Data Analyst (m/w/d) position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to DocCheck AG. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
+    },
+    {
+      "date": "2026-11-26T18:16:01+00:00",
+      "source": "Arbeitnow",
+      "title": "GTM Engineer",
+      "company": "Vocca",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vocca/gtm-engineer-paris-266837",
+      "subject": "Application for GTM Engineer \u2014 Sudip Kumar Adak",
+      "action": "text_draft",
+      "draft_body": "Dear Hiring Team at Vocca,\n\nI'm writing to apply for the GTM Engineer position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to Vocca. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
+    },
+    {
+      "date": "2026-11-26T18:16:01+00:00",
+      "source": "Arbeitnow",
+      "title": "Azure Data Engineer with Databricks & PySpark",
+      "company": "Jobgether",
+      "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/azure-data-engineer-with-databricks-pyspark-switzerland-287961",
+      "subject": "Application for Azure Data Engineer with Databricks & PySpark \u2014 Sudip Kumar Adak",
+      "action": "text_draft",
+      "draft_body": "Dear Hiring Team at Jobgether,\n\nI'm writing to apply for the Azure Data Engineer with Databricks & PySpark position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to Jobgether. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
+    },
+    {
+      "date": "2026-11-26T18:16:01+00:00",
+      "source": "Arbeitnow",
+      "title": "Junior Business Controller (Data specialist)",
+      "company": "HG International b.v.",
+      "url": "https://www.arbeitnow.nl/jobs/companies/hg-international-bv/junior-business-controller-data-specialist-almere-394785",
+      "subject": "Application for Junior Business Controller (Data specialist) \u2014 Sudip Kumar Adak",
+      "action": "text_draft",
+      "draft_body": "Dear Hiring Team at HG International b.v.,\n\nI'm writing to apply for the Junior Business Controller (Data specialist) position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to HG International b.v.. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
+    },
+    {
+      "date": "2026-11-26T18:16:01+00:00",
+      "source": "Arbeitnow",
+      "title": "Azure Data Engineer with Databricks & PySpark",
+      "company": "Jobgether",
+      "url": "https://www.arbeitnow.nl/jobs/companies/jobgether/azure-data-engineer-with-databricks-pyspark-netherlands-367179",
+      "subject": "Application for Azure Data Engineer with Databricks & PySpark \u2014 Sudip Kumar Adak",
+      "action": "text_draft",
+      "draft_body": "Dear Hiring Team at Jobgether,\n\nI'm writing to apply for the Azure Data Engineer with Databricks & PySpark position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to Jobgether. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
+    },
     {
       "date": "2026-11-25T18:32:56+00:00",
       "source": "Arbeitnow",
@@ -145,66 +205,6 @@
       "subject": "Application for Junior Go Backend Developer (f/m/d) \u2014 Sudip Kumar Adak",
       "action": "text_draft",
       "draft_body": "Dear Hiring Team at adjoe,\n\nI'm writing to apply for the Junior Go Backend Developer (f/m/d) position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to adjoe. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
-    },
-    {
-      "date": "2026-11-21T15:59:36+00:00",
-      "source": "Arbeitnow",
-      "title": "Business / Data Analyst (F/H/X) - CDI",
-      "company": "Veepee",
-      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/business-data-analyst-cdi-saint-denis-394175",
-      "subject": "Application for Business / Data Analyst (F/H/X) - CDI \u2014 Sudip Kumar Adak",
-      "action": "text_draft",
-      "draft_body": "Dear Hiring Team at Veepee,\n\nI'm writing to apply for the Business / Data Analyst (F/H/X) - CDI position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to Veepee. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
-    },
-    {
-      "date": "2026-11-20T16:51:02+00:00",
-      "source": "Arbeitnow",
-      "title": "Data Engineer \u2013 Data Warehouse & AI Foundation (m/w/d)",
-      "company": "GENO Broker GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/geno-broker-gmbh/data-engineer-data-warehouse-ai-foundation-frankfurt-am-main-302625",
-      "subject": "Application for Data Engineer \u2013 Data Warehouse & AI Foundation (m/w/d) \u2014 Sudip Kumar Adak",
-      "action": "text_draft",
-      "draft_body": "Dear Hiring Team at GENO Broker GmbH,\n\nI'm writing to apply for the Data Engineer \u2013 Data Warehouse & AI Foundation (m/w/d) position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to GENO Broker GmbH. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
-    },
-    {
-      "date": "2026-11-20T16:51:02+00:00",
-      "source": "Arbeitnow",
-      "title": "Directeur Practice Consulting & Data Transformation",
-      "company": "Artefactlinkedin",
-      "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/directeur-practice-consulting-data-transformation-9th-arrondissement-of-paris-75009-paris-487492",
-      "subject": "Application for Directeur Practice Consulting & Data Transformation \u2014 Sudip Kumar Adak",
-      "action": "text_draft",
-      "draft_body": "Dear Hiring Team at Artefactlinkedin,\n\nI'm writing to apply for the Directeur Practice Consulting & Data Transformation position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to Artefactlinkedin. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
-    },
-    {
-      "date": "2026-11-20T16:51:02+00:00",
-      "source": "Arbeitnow",
-      "title": "Machine Learning Engineer Intern - Computer Vision",
-      "company": "Harmattan Ai",
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/machine-learning-engineer-intern-computer-vision-lausanne-140058",
-      "subject": "Application for Machine Learning Engineer Intern - Computer Vision \u2014 Sudip Kumar Adak",
-      "action": "text_draft",
-      "draft_body": "Dear Hiring Team at Harmattan Ai,\n\nI'm writing to apply for the Machine Learning Engineer Intern - Computer Vision position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to Harmattan Ai. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
-    },
-    {
-      "date": "2026-11-19T17:12:38+00:00",
-      "source": "Arbeitnow",
-      "title": "Data Analyst (m/w/d)",
-      "company": "GENO Broker GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/geno-broker-gmbh/data-analyst-frankfurt-am-main-238532",
-      "subject": "Application for Data Analyst (m/w/d) \u2014 Sudip Kumar Adak",
-      "action": "text_draft",
-      "draft_body": "Dear Hiring Team at GENO Broker GmbH,\n\nI'm writing to apply for the Data Analyst (m/w/d) position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to GENO Broker GmbH. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
-    },
-    {
-      "date": "2026-11-19T17:12:38+00:00",
-      "source": "Arbeitnow",
-      "title": "Frontend Developer (m/w/d) \u2013 Web & Mobile f\u00fcr OT360",
-      "company": "INspares GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/inspares-gmbh/frontend-developer-web-mobile-fur-ot360-erkelenz-178907",
-      "subject": "Application for Frontend Developer (m/w/d) \u2013 Web & Mobile f\u00fcr OT360 \u2014 Sudip Kumar Adak",
-      "action": "text_draft",
-      "draft_body": "Dear Hiring Team at INspares GmbH,\n\nI'm writing to apply for the Frontend Developer (m/w/d) \u2013 Web & Mobile f\u00fcr OT360 position. I'm Sudip Kumar Adak, an MCA student (MCA (in progress), Pimpri Chinchwad University; BCA, Techno India Institute of Technology) based in Pune, Maharashtra, India, with hands-on experience in Python, Django, SQL, Machine Learning, Data Visualization, Java.\n\nMost recently I built MindFlow \u2014 AI Mental Health Companion \u2014 an AI-powered mental health platform with real-time emotion detection via NLP, an empathetic chatbot, wellness tracking, and crisis-support resources, built on Django + ML. You can see it live here: https://mental-health-ai-xy7u.onrender.com. I've also worked on an e-commerce platform with cart, auth, and responsive UI (JS/HTML/CSS) and a Python data-analytics dashboard with dynamic charts and KPI reporting.\n\nI'd welcome the chance to bring that same hands-on, full-stack + AI/ML background to INspares GmbH. My portfolio, resume details, and other projects are here: https://thebright10.github.io/Portfolio_Sudip/ GitHub: https://github.com/Thebright10 | LinkedIn: https://www.linkedin.com/in/sudip-kumar-adak-26b303245/\n\nThank you for your time and consideration \u2014 I'd love to talk further.\n\nBest regards,\nSudip Kumar Adak\nadaksudip956@gmail.com\n"
     }
   ]
 }
